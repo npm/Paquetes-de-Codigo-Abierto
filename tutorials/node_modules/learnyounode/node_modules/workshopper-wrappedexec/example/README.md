@@ -1,0 +1,1 @@
+This example is an ES5 Array#map() exercise. It uses both boilerplate and wrappedexec.
