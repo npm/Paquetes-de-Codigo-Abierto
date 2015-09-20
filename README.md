@@ -1,9 +1,9 @@
 # Paquetes-de-Codigo-Abierto
-An index of open source software, descriptions, and offers for personal mentorship for the Computer Science students at the University of Havana.
+An index of open source software, descriptions, and offers for personal mentorship for computer science students at the University of Havana. More context and information about this project are available here: http://blog.npmjs.org/post/129317528175/los-paquetes-de-codigo-abierto
 
 ## Please Contribute
 
-With your help, I hope transfer, categorize and index ~2GBs of open source software into this Github repository for the students of the Computer Science department at the University of Havana. If you're willing to help here's what we might do:
+With your help, I hope to transfer, categorize and index ~2GBs of open source software into this GitHub repository for the students of the Computer Science department at the University of Havana. If you’re willing to help here’s what we might do:
 
 + Help me propose a reasoning and folder structure for this index. Given their hardware is likely a few generations behind, which operating systems are worth using? Which Tor clients are reliable? NodeSchool corpuses are needed to advance? Assume that there is no prior developmental knowledge and work from there.
 
